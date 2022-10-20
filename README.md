@@ -1,14 +1,14 @@
 ## Q + A
-1. How do we assign a value to a variable?
-2. How do we change the value of a variable?
-3. How do we assign an existing variable to a new variable?
-4. Remind me, what are declare, assign, and define?
+1. How do we assign a value to a variable? We initialize the variable with a value by typing the variable name, followed by an equals sign (=), followed by the value we want to give it
+2. How do we change the value of a variable? by reinitializing the variable with a new value. ex: let myName = 'Chris'; myName = 'Bob';
+3. How do we assign an existing variable to a new variable? declare the two variables a and b. assign a a value and then do a = b
+4. Remind me, what are declare, assign, and define? we declare a variable with var, let, or const. assign is used to assign a value to the declared variable. Define means to describe the variable.
 
 ### Research 
 
-5. What is pseudocoding and why should you do it?
+5. What is pseudocoding and why should you do it? Pseudocoding is a text description of a piece of code or an algorithm
 
-6. What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
+6. What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it? 60% of the time.
 
 ## Strings
 
