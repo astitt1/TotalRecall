@@ -1,26 +1,26 @@
 ## Q + A
 1. How do we assign a value to a variable?
-2. How do we change the value of a variable?
-3. How do we assign an existing variable to a new variable?
-4. Remind me, what are declare, assign, and define?
+A: Using var,let and const with equalto sign
 
-Declare is to let js know that there is a variable `let a;`
-To assign a value to the variable. I need to use `=`.
-For example: `let a = 0`
+2. How do we change the value of a variable?
+A: var a = "Hello"
+
+3. How do we assign an existing variable to a new variable?
+A: var a= b
+
+4. Remind me, what are declare, assign, and define?
+A: Declare- Reserving some momery to store some data.
+   Assign - storing value to a variable
+   define - to define or spesify a variable
+   
 
 ### Research 
 
 5. What is pseudocoding and why should you do it?
-
-Pseudocoding is writing code in plain spoken language that humans can understand.
-
-It's important because it allows you to write the logic and steps of the you want to accomplish in code without worrying about the rigid syntax.
-
-Psuedocode allows us to break down problems into solvable peices that can be transfered to code. 
-
-Psudocode is the bridge between our minds and the code. 
+A: Pseudocoding is the action of explaining or defining your program process within a human-readable format.Basically explaining the function of code in simple language.
 
 6. What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
+A:40% of thinking and  60% programming
 
 ## Strings
 
@@ -33,6 +33,7 @@ Psudocode is the bridge between our minds and the code.
 - Change the value of secondVariableto any string.
 
 What is the value of firstVariable?
+A: Value of firstVariable is equal to secondVariable, here it is "Changing the second variable string".
 
 - Create a variable called yourName and set it equal to your name as a string. Then, write an expression that takes the string `"Hello, my name is "` and the variable yourName. 
 
@@ -142,8 +143,13 @@ Check your work! Your `bank_account` should have $10,100 in it.
 
 ### A. Talk about it:
 What are the things in an array called?
+A: It is an element.
+
 Do Arrays guarantee those things will be in order?
+A: yes, non-alphabetical.
+
 What real-life thing could you model with an array?
+A: Anything with the list of information (restuarant menu, voters list etc)
 
 
 
@@ -156,7 +162,10 @@ Create an array that contains three quotes and store it in a variable called quo
 
 Given the following array `const randomThings = [1, 10, "Hello", true]`
 
+
 - How do you access the 1st element in the array?
+
+A: const randomThings = [1, 10, "Hello", true]
 
 - Change the value of `"Hello"` to `"World"`
 
