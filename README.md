@@ -1,6 +1,6 @@
 ## Q + A
 1. How do we assign a value to a variable?
-A: Using var,let and const
+A: Using var,let and const with equalto sign
 
 2. How do we change the value of a variable?
 A: var a = "Hello"
